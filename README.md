@@ -1,5 +1,5 @@
 # iOS-macOS-Location-Simulator
-通过Mac上Xcode中的开发模式更改设备定位，！注意，只能通过Xcode实现！
+通过Mac上Xcode中的开发模式更改设备定位！注意，只能通过Xcode实现！
 
 # 原理
 Xcode为开发者提供了定位模拟功能，以便在开发应用时测试各个地区是否都能正常运行
